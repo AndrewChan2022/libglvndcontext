@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libglvndcontext.dylib -install_name @rpath/libglvndcontext.dylib CMakeFiles/glvndcontext.dir/lib/GLVNDGLContext.cpp.o 

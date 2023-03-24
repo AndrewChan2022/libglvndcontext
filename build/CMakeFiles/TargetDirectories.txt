@@ -1,0 +1,6 @@
+/Users/kaichen/data/light3/libglvndcontext/build/CMakeFiles/glvndcontext.dir
+/Users/kaichen/data/light3/libglvndcontext/build/CMakeFiles/edit_cache.dir
+/Users/kaichen/data/light3/libglvndcontext/build/CMakeFiles/rebuild_cache.dir
+/Users/kaichen/data/light3/libglvndcontext/build/test/CMakeFiles/testglvndcontext.dir
+/Users/kaichen/data/light3/libglvndcontext/build/test/CMakeFiles/edit_cache.dir
+/Users/kaichen/data/light3/libglvndcontext/build/test/CMakeFiles/rebuild_cache.dir
